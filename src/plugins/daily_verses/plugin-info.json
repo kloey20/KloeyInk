@@ -1,0 +1,9 @@
+{
+    "display_name": "Daily Verses",
+    "id": "daily_verses",
+    "name": "Daily Bible Verses",
+    "class": "DailyVersesPlugin",
+    "description": "Displays a refreshing new verse of the day from the web.",
+    "version": "2.0.0",
+    "author": "Kloey"
+}
