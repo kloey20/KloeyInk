@@ -1,7 +1,7 @@
 # Installing guide
 This is a guide on how to install the InkyPi. This is a guide based on the original git repository, but offers more detail and focuses on Raspberry Pi 3 A+
 
-**Table of contents**<br>
+### Table of contents<br>
 
 [1. Download Raspberry Pi imager](#1-download-raspberry-pi-imager)<br>
 [2. Booting up Raspberry Pi](#2-booting-up-raspberry-pi)<br>
