@@ -1,6 +1,16 @@
 # Login
 
-### Table of contents
+### Table of contents <br>
+[Image Settings](#image-settings)<br>
+[Opening the UI](#opening-the-ui)<br>
+[Rebooting InkyPi](#rebooting-inkypi)<br>
+[Safe Shutdown](#safe-shutdown)<br>
+[Recovery checks after reboot](#recovery-checks-after-reboot)<br>
+[Finding the IP address](#finding-the-ip-address)<br>
+[Storing API Keys](#storing-api-keys)<br>
+[Updating into a branch in Github](#updating-into-a-branch-in-github)<br>
+[Forcing a downgrade from a GitHub branch](#forcing-a-downgrade-from-a-github-branch)<br>
+
 
 As of May 19, 2026
 
