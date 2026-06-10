@@ -1,6 +1,8 @@
 ## 1. Creating the Plugin Directory
 
->❗Currently needs to be updated with how InkyPi has instructed
+>❗Currently needs to be updated with how InkyPi has instructed <br>
+
+>❗It is suggested to install cyberduck for ease of plugin updates
 
 ```bash
 sudo mkdir -p /usr/local/inkypi/src/plugins/daily_verses
