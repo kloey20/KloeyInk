@@ -1,6 +1,6 @@
 # Troubleshooting the installation
 
-**Table of contents** --- <br>
+**Table of contents** <br>
 [1. Creating Python virtual environment and updating Inkypi](#1-creating-python-virtual-environment-and-updating-inkypi) <br>
 [2. Fix PYTHONPATH issue](#2-fix-pythonpath-issue)<br>
 [3. Fix hidden import failure](#3-fix-hidden-import-failure)<br>
