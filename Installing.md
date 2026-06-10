@@ -6,6 +6,7 @@ This is a guide on how to install the InkyPi. This is a guide based on the origi
 [1. Download Raspberry Pi imager](#1-download-raspberry-pi-imager)<br>
 [2. Booting up Raspberry Pi](#2-booting-up-raspberry-pi)<br>
 [3. Cloning InkyPi](#3-cloning-inkypi)<br>
+[Cyberduck](#cyberduck)
 
 ## 1. Download Raspberry Pi imager
 1. Install the Raspberry Pi Imager from the [official download page](https://www.raspberrypi.com/software/)
@@ -132,3 +133,8 @@ print(type(d))
 sudo systemctl daemon-reload
 sudo systemctl restart inkypi.service
 ```
+
+## Cyberduck
+[Cyberduck](https://cyberduck.io) is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+
+It can help provide a visual screen for the raspberry pi files and is recommended especially with plugins and updates
