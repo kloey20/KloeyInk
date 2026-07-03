@@ -100,6 +100,8 @@ Repo: https://github.com/fatihak/InkyPi/blob/main/docs/api_keys.md
 - NASA API: **oH8dsIeJjOddJruZcsYM2Eqd1GapUOtbbsYcSOSD**
     
     Alternative: **Yh7pPgmfpt37QQb1lGbX6BFJ2saKmHEOzC6Kp6dz**
+
+- Magestrerium API: **sk_creati_3b2febe666b0a4c1045997d18997d8cc9d6d04d6d08f4d231079d75356424617**
     
 
 # Updating into a branch in Github
