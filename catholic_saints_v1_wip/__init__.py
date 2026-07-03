@@ -1,0 +1,1 @@
+from .catholic_saints import CatholicSaintsPlugin

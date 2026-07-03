@@ -1,0 +1,29 @@
+<div class="form-group">
+  <label>Display Theme</label>
+  <label>
+    <input type="radio" name="display_theme" value="light" checked>
+    ☀️ Light Mode
+  </label>
+  <label>
+    <input type="radio" name="display_theme" value="dark">
+    🌙 Dark Mode
+  </label>
+</div>
+
+<div class="form-group">
+  <label for="base_font_size">Base Font Size</label>
+  <input type="number" id="base_font_size" name="base_font_size" min="12" max="24" value="16">
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    if (typeof loadPluginSettings !== 'undefined' && loadPluginSettings) {
+      // Restore layout theme
+      const savedTheme = pluginSettings.display_theme || 'light';
+      document.querySelector(`input[name="display_theme"][value="${savedTheme}"]`).checked = true;
+
+      // Restore baseline typography bounds
+      document.getElementById('base_font_size').value = pluginSettings.base_font_size || 16;
+    }
+  });
+</script>

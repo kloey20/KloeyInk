@@ -1,0 +1,9 @@
+{
+    "display_name": "Catholic Saints",
+    "id": "catholic_saints",
+    "name": "Catholic Saints",
+    "class": "CatholicSaintsPlugin",
+    "description": "Displays the daily saint, lifespan, quote, and history using Magisterium AI.",
+    "version": "1.0.0",
+    "author": "Kloey"
+}
